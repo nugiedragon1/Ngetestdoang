@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel is successfuly installed bichis
+                    Suted bau
                 </div>
 
                 <div class="links">
